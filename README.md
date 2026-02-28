@@ -7,7 +7,7 @@ Welcome to my GitHub repository! Here you'll find various projects that showcase
 - Programming Languages: Python, JavaScript, C++
 - Web Development: HTML, CSS, React
 - Database Management: SQL, MongoDB
-- Tools: Git, Docker, Jenkins
+- Tools: Git, VS Code, PowerShell
 
 ## Interests
 I am passionate about:
@@ -18,8 +18,7 @@ I am passionate about:
 
 ## Contact Information
 Feel free to reach out to me:
-- Email: example@example.com
-- LinkedIn: [linkedin.com/in/drmaig](https://linkedin.com/in/drmaig)
+- Email: maigi31@proton.me
 - Twitter: [@drmaig](https://twitter.com/drmaig)
 
 Thanks for visiting my repository!
