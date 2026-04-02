@@ -46,7 +46,36 @@ I don't just write code; I engineer solutions. I am a forward-thinking software 
 </a>
 
 </div>
+---
 
+### 💻 <span style="color:#00E5FF;">Featured Projects</span>
+
+*A showcase of my recent work in system architecture, automation, and scripting. [View all repositories](https://github.com/DrMaig?tab=repositories)*
+
+<table bordercolor="#1F2428">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Enterprise PowerShell Profile</h3>
+      <br />
+      <p>An enterprise-grade <strong>PowerShell 7.5+ Professional Profile</strong> for Windows 10/11 Pro x64. A highly modular (~3.5k LOC) architecture functioning as a thin orchestrator with comprehensive logging, telemetry, module management, and system administration features.</p>
+      <p><strong>Highlights:</strong> Modular runtime guards, strict Pester test coverage, PSScriptAnalyzer linting, and built-in performance monitoring.</p>
+      <p><strong>Tech Stack:</strong> PowerShell</p>
+      <div align="center">
+        <a href="https://github.com/DrMaig/PowerShell">⚙️ View Repository</a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">PowerShell Personal Environments</h3>
+      <br />
+      <p>A collection of customized PowerShell environments and utility scripts aimed at streamlining developer workflows, managing configurations, and optimizing system performance.</p>
+      <p><strong>Highlights:</strong> Custom prompts, dynamic aliases, automated third-party CLI integrations, and rapid DNS profile switching.</p>
+      <p><strong>Tech Stack:</strong> PowerShell</p>
+      <div align="center">
+        <a href="https://github.com/DrMaig/PowerShell-Personal-Profile">⚙️ Personal Profile</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a href="https://github.com/DrMaig/Pow">⚙️ Pow Repo</a>
+      </div>
+    </td>
+  </tr>
+</table>
 ---
 
 ### 📊 <span style="color:#00E5FF;">Proof of Work & Contributions</span>
