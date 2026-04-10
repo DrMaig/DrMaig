@@ -2,20 +2,19 @@
 
 ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=200&section=header&text=DrMaig&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20ML%20Specialist&descAlignY=62&descAlign=50)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Architecting+scalable+solutions.;Transforming+data+into+decisions.;Building+the+future+with+AI+%26+ML.;Turning+coffee+into+clean+code)](https://git.io/typing-svg)
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Architecting+scalable+solutions.;Transforming+data+into+decisions.;Building+the+future+with+AI+%26+ML.;Turning+coffee+into+clean+code)
 
 **Crafting elegant, high-performance solutions for forward-thinking clients.**
 
 <br/>
 
-<!-- Primary Call-to-Action -->
 [![Hire Me](https://img.shields.io/badge/Status-Available_for_Freelance-00E5FF?style=for-the-badge&logo=rocket&logoColor=111111&labelColor=0D1117)](mailto:aamir.gill@ucp.edu.pk)
 [![Resume](https://img.shields.io/badge/View-Resume-00E5FF?style=for-the-badge&logo=readdotcv&logoColor=111111&labelColor=0D1117)](https://drive.google.com/file/d/1zjRRseg0rwEibJVdszG8KVBuY2SXzgqg/view?usp=drive_link)
 [![Upwork](https://img.shields.io/badge/Upwork-Profile-00E5FF?style=for-the-badge&logo=upwork&logoColor=111111&labelColor=0D1117)](https://www.upwork.com/freelancers/~yourprofile)
 
 <br/>
 
-<!-- Verified Metrics -->
 [![GitHub followers](https://img.shields.io/github/followers/DrMaig?label=Followers&style=flat-square&color=00B4D8)](https://github.com/DrMaig?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/DrMaig?label=Total%20Stars&style=flat-square&color=00B4D8)](https://github.com/DrMaig?tab=repositories)
 
