@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=200&section=header&text=DrMaig&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20ML%20Specialist&descAlignY=62&descAlign=50)
+![Header Banner](header-banner.svg)
 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Architecting+scalable+solutions.;Transforming+data+into+decisions.;Building+the+future+with+AI+%26+ML.;Turning+coffee+into+clean+code)
@@ -121,4 +121,4 @@ I partner with clients to transform technical requirements into delivered value.
 
 </div>
 
-![Footer Banner](https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=100&section=footer)
+![Footer Banner](footer-banner.svg)
