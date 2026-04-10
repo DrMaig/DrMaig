@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="900" height="200">
+  <defs>
+    <style>
+      @keyframes fadeIn {
+        0% { opacity: 0; }
+        100% { opacity: 1; }
+      }
+      .content { animation: fadeIn 1.5s ease-in-out forwards; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="200" fill="#00E5FF"/>
+
+  <!-- Wave layer 1 (subtle) -->
+  <path d="M0,120 C90,148 200,92 300,120 C400,148 500,92 600,120 C700,148 810,92 900,120 L900,200 L0,200 Z" fill="rgba(0,0,0,0.07)"/>
+
+  <!-- Wave layer 2 (white, foreground) -->
+  <path d="M0,145 C110,172 230,118 360,145 C480,170 610,112 740,145 C820,162 870,138 900,152 L900,200 L0,200 Z" fill="white"/>
+
+  <!-- Text content -->
+  <g class="content">
+    <text
+      x="450" y="82"
+      text-anchor="middle"
+      font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif"
+      font-size="58"
+      font-weight="bold"
+      fill="white">DrMaig</text>
+
+    <text
+      x="450" y="117"
+      text-anchor="middle"
+      font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif"
+      font-size="19"
+      fill="white">Software Engineer | AI &amp; ML Specialist</text>
+  </g>
+</svg>
